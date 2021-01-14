@@ -68,7 +68,6 @@ email: fengg@email.sc.edu
 highlight_name: false
 ---
 
-Feng Guo is a Ph.D Candidate at the University of South Carolina. His research interests include the application of artificial intelligence in transportation infrastructure, mobile computing, computer vision, and intelligent transportation system. He is under supervised by Dr. Yu Qian who leads transportation geotechnics research group and solves  challenges in transportation infrastructures.
-Feng Guo believes life is too short to wait. Just do it. 
+Feng Guo is a Ph.D Candidate at the University of South Carolina. His research interests include the application of artificial intelligence in transportation infrastructure, mobile computing, computer vision, and intelligent transportation system. He is under supervised by Dr. Yu Qian who leads transportation geotechnics research group and solves  challenges in transportation infrastructures. life is too short to wait. Just do it. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
