@@ -30,10 +30,10 @@ education:
     year: 2018.08 - current
   - course: MEng in Civil Engineering
     institution: Beijing University of Civil Engineering and Architecture 
-    year: 2014.09 - 2017.07
+    year: 2017
   - course: BSc in Civil Engineering
     institution: Ludong University 
-    year: 2010.09 - 2017.07
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
