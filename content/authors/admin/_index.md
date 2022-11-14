@@ -6,12 +6,11 @@ title: Feng Guo
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
-
+role: Assistant Professor 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of South Carolina
-  url: https://www.sc.edu/
+- name: Shandong University
+  url: https://www.qltrans.sdu.edu.cn/info/1101/4878.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
